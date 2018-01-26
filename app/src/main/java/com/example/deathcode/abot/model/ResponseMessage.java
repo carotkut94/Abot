@@ -1,4 +1,4 @@
-package com.example.deathcode.abot;
+package com.example.deathcode.abot.model;
 
 /**
  * Created by deathcode on 26/01/18.

@@ -8,7 +8,9 @@ import android.view.KeyEvent;
 import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.example.deathcode.abot.adapter.MessageAdapter;
+import com.example.deathcode.abot.model.ResponseMessage;
 
 import java.util.ArrayList;
 import java.util.List;
